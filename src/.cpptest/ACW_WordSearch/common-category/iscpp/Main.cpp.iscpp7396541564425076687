@@ -1,0 +1,6 @@
+fileName=C:\Users\632115\source\repos\500083-2122-lab-i-sqz-xy\500083_ACW_Template\ACW_WordSearch\Main.cpp
+isCpp=
+compilerOpts=-I"C:\Program Files (x86)\Parasoft\C++test for Visual Studio\10.5\engine\runtime\include" /Zi /W3 /O2 /EHsc /MD /fp:precise /Gd /GS /sdl /Oi /Gm- /Gy /D"_MBCS" /Zc:wchar_t /Zc:forScope /Zc:inline /WX- /nologo /FC /diagnostics:column -DPARASOFT_CPPTEST -I.
+compilerId=vc_14_2-64
+workingDir=C:\Users\632115\source\repos\500083-2122-lab-i-sqz-xy\500083_ACW_Template\ACW_WordSearch\
+advancedOptionsHash=0

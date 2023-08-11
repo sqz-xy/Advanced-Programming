@@ -1,0 +1,960 @@
+<->
+<F>C:\Users\632115\source\repos\500083-2122-lab-i-sqz-xy\500083_ACW_Template\ACW_WordSearch\WordSearch.cpp
+<c>INTERNAL-METRICS-CC
+<b>FUNC=WordSearch::WordSearch(const char *); CC=1; SCC=1; MCC=1; TEMPLATE_FUNC=
+<l>19
+<k>13
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\632115\source\repos\500083-2122-lab-i-sqz-xy\500083_ACW_Template\ACW_WordSearch\WordSearch.cpp
+<c>INTERNAL-METRICS-METHODS2
+<b>CLASS=WordSearch; SIGNATURE=WordSearch::WordSearch(const char *); PARAMNO=1; DEF=true; DIT=false; START_LINE=19; END_LINE=26; TEMPLATE_CLASS=; TEMPLATE_FUNC=
+<l>19
+<k>13
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\632115\source\repos\500083-2122-lab-i-sqz-xy\500083_ACW_Template\ACW_WordSearch\WordSearch.cpp
+<c>INTERNAL-METRICS-NBD
+<b>FUNC=WordSearch::WordSearch(const char *); NBD=0; TEMPLATE_FUNC=
+<l>19
+<k>13
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\632115\source\repos\500083-2122-lab-i-sqz-xy\500083_ACW_Template\ACW_WordSearch\WordSearch.cpp
+<c>INTERNAL-METRICS-CC
+<b>FUNC=WordSearch::WordSearch(const WordSearch&); CC=1; SCC=1; MCC=1; TEMPLATE_FUNC=
+<l>32
+<k>13
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\632115\source\repos\500083-2122-lab-i-sqz-xy\500083_ACW_Template\ACW_WordSearch\WordSearch.cpp
+<c>INTERNAL-METRICS-METHODS2
+<b>CLASS=WordSearch; SIGNATURE=WordSearch::WordSearch(const WordSearch&); PARAMNO=1; DEF=true; DIT=false; START_LINE=32; END_LINE=43; TEMPLATE_CLASS=; TEMPLATE_FUNC=
+<l>32
+<k>13
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\632115\source\repos\500083-2122-lab-i-sqz-xy\500083_ACW_Template\ACW_WordSearch\WordSearch.cpp
+<c>INTERNAL-METRICS-NBD
+<b>FUNC=WordSearch::WordSearch(const WordSearch&); NBD=0; TEMPLATE_FUNC=
+<l>32
+<k>13
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\632115\source\repos\500083-2122-lab-i-sqz-xy\500083_ACW_Template\ACW_WordSearch\WordSearch.cpp
+<c>INTERNAL-METRICS-CC
+<b>FUNC=WordSearch::~WordSearch(); CC=2; SCC=2; MCC=2; TEMPLATE_FUNC=
+<l>50
+<k>13
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\632115\source\repos\500083-2122-lab-i-sqz-xy\500083_ACW_Template\ACW_WordSearch\WordSearch.cpp
+<c>INTERNAL-METRICS-METHODS2
+<b>CLASS=WordSearch; SIGNATURE=WordSearch::~WordSearch(); PARAMNO=0; DEF=true; DIT=false; START_LINE=50; END_LINE=60; TEMPLATE_CLASS=; TEMPLATE_FUNC=
+<l>50
+<k>13
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\632115\source\repos\500083-2122-lab-i-sqz-xy\500083_ACW_Template\ACW_WordSearch\WordSearch.cpp
+<c>INTERNAL-METRICS-NBD
+<b>FUNC=WordSearch::~WordSearch(); NBD=1; TEMPLATE_FUNC=
+<l>50
+<k>13
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\632115\source\repos\500083-2122-lab-i-sqz-xy\500083_ACW_Template\ACW_WordSearch\WordSearch.cpp
+<c>INTERNAL-METRICS-CC
+<b>FUNC=WordSearch::readSimplePuzzle(); CC=4; SCC=4; MCC=4; TEMPLATE_FUNC=
+<l>66
+<k>18
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\632115\source\repos\500083-2122-lab-i-sqz-xy\500083_ACW_Template\ACW_WordSearch\WordSearch.cpp
+<c>INTERNAL-METRICS-METHODS2
+<b>CLASS=WordSearch; SIGNATURE=WordSearch::readSimplePuzzle(); PARAMNO=0; DEF=true; DIT=false; START_LINE=66; END_LINE=87; TEMPLATE_CLASS=; TEMPLATE_FUNC=
+<l>66
+<k>18
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\632115\source\repos\500083-2122-lab-i-sqz-xy\500083_ACW_Template\ACW_WordSearch\WordSearch.cpp
+<c>INTERNAL-METRICS-NBD
+<b>FUNC=WordSearch::readSimplePuzzle(); NBD=0; TEMPLATE_FUNC=
+<l>66
+<k>18
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\632115\source\repos\500083-2122-lab-i-sqz-xy\500083_ACW_Template\ACW_WordSearch\WordSearch.cpp
+<c>INTERNAL-METRICS-CC
+<b>FUNC=WordSearch::writeSimplePuzzle() const; CC=3; SCC=3; MCC=3; TEMPLATE_FUNC=
+<l>92
+<k>18
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\632115\source\repos\500083-2122-lab-i-sqz-xy\500083_ACW_Template\ACW_WordSearch\WordSearch.cpp
+<c>INTERNAL-METRICS-METHODS2
+<b>CLASS=WordSearch; SIGNATURE=WordSearch::writeSimplePuzzle() const; PARAMNO=0; DEF=true; DIT=false; START_LINE=92; END_LINE=101; TEMPLATE_CLASS=; TEMPLATE_FUNC=
+<l>92
+<k>18
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\632115\source\repos\500083-2122-lab-i-sqz-xy\500083_ACW_Template\ACW_WordSearch\WordSearch.cpp
+<c>INTERNAL-METRICS-NBD
+<b>FUNC=WordSearch::writeSimplePuzzle() const; NBD=1; TEMPLATE_FUNC=
+<l>92
+<k>18
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\632115\source\repos\500083-2122-lab-i-sqz-xy\500083_ACW_Template\ACW_WordSearch\WordSearch.cpp
+<c>INTERNAL-METRICS-CC
+<b>FUNC=WordSearch::readSimpleDictionary(); CC=2; SCC=2; MCC=2; TEMPLATE_FUNC=
+<l>106
+<k>18
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\632115\source\repos\500083-2122-lab-i-sqz-xy\500083_ACW_Template\ACW_WordSearch\WordSearch.cpp
+<c>INTERNAL-METRICS-METHODS2
+<b>CLASS=WordSearch; SIGNATURE=WordSearch::readSimpleDictionary(); PARAMNO=0; DEF=true; DIT=false; START_LINE=106; END_LINE=120; TEMPLATE_CLASS=; TEMPLATE_FUNC=
+<l>106
+<k>18
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\632115\source\repos\500083-2122-lab-i-sqz-xy\500083_ACW_Template\ACW_WordSearch\WordSearch.cpp
+<c>INTERNAL-METRICS-NBD
+<b>FUNC=WordSearch::readSimpleDictionary(); NBD=1; TEMPLATE_FUNC=
+<l>106
+<k>18
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\632115\source\repos\500083-2122-lab-i-sqz-xy\500083_ACW_Template\ACW_WordSearch\WordSearch.cpp
+<c>INTERNAL-METRICS-CC
+<b>FUNC=WordSearch::writeSimpleDic() const; CC=2; SCC=2; MCC=2; TEMPLATE_FUNC=
+<l>125
+<k>18
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\632115\source\repos\500083-2122-lab-i-sqz-xy\500083_ACW_Template\ACW_WordSearch\WordSearch.cpp
+<c>INTERNAL-METRICS-METHODS2
+<b>CLASS=WordSearch; SIGNATURE=WordSearch::writeSimpleDic() const; PARAMNO=0; DEF=true; DIT=false; START_LINE=125; END_LINE=130; TEMPLATE_CLASS=; TEMPLATE_FUNC=
+<l>125
+<k>18
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\632115\source\repos\500083-2122-lab-i-sqz-xy\500083_ACW_Template\ACW_WordSearch\WordSearch.cpp
+<c>INTERNAL-METRICS-NBD
+<b>FUNC=WordSearch::writeSimpleDic() const; NBD=0; TEMPLATE_FUNC=
+<l>125
+<k>18
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\632115\source\repos\500083-2122-lab-i-sqz-xy\500083_ACW_Template\ACW_WordSearch\WordSearch.cpp
+<c>INTERNAL-METRICS-CC
+<b>FUNC=WordSearch::writeAdvancedPuzzle() const; CC=4; SCC=4; MCC=4; TEMPLATE_FUNC=
+<l>135
+<k>18
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\632115\source\repos\500083-2122-lab-i-sqz-xy\500083_ACW_Template\ACW_WordSearch\WordSearch.cpp
+<c>INTERNAL-METRICS-METHODS2
+<b>CLASS=WordSearch; SIGNATURE=WordSearch::writeAdvancedPuzzle() const; PARAMNO=0; DEF=true; DIT=false; START_LINE=135; END_LINE=159; TEMPLATE_CLASS=; TEMPLATE_FUNC=
+<l>135
+<k>18
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\632115\source\repos\500083-2122-lab-i-sqz-xy\500083_ACW_Template\ACW_WordSearch\WordSearch.cpp
+<c>INTERNAL-METRICS-NBD
+<b>FUNC=WordSearch::writeAdvancedPuzzle() const; NBD=2; TEMPLATE_FUNC=
+<l>135
+<k>18
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\632115\source\repos\500083-2122-lab-i-sqz-xy\500083_ACW_Template\ACW_WordSearch\WordSearch.cpp
+<c>INTERNAL-METRICS-CC
+<b>FUNC=WordSearch::operator =(const WordSearch&); CC=2; SCC=2; MCC=2; TEMPLATE_FUNC=
+<l>166
+<k>33
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\632115\source\repos\500083-2122-lab-i-sqz-xy\500083_ACW_Template\ACW_WordSearch\WordSearch.cpp
+<c>INTERNAL-METRICS-METHODS2
+<b>CLASS=WordSearch; SIGNATURE=WordSearch::operator =(const WordSearch&); PARAMNO=1; DEF=true; DIT=false; START_LINE=166; END_LINE=185; TEMPLATE_CLASS=; TEMPLATE_FUNC=
+<l>166
+<k>33
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\632115\source\repos\500083-2122-lab-i-sqz-xy\500083_ACW_Template\ACW_WordSearch\WordSearch.cpp
+<c>INTERNAL-METRICS-NBD
+<b>FUNC=WordSearch::operator =(const WordSearch&); NBD=1; TEMPLATE_FUNC=
+<l>166
+<k>33
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\632115\source\repos\500083-2122-lab-i-sqz-xy\500083_ACW_Template\ACW_WordSearch\WordSearch.cpp
+<c>INTERNAL-METRICS-CC
+<b>FUNC=WordSearch::readAdvancedPuzzle(); CC=4; SCC=4; MCC=4; TEMPLATE_FUNC=
+<l>191
+<k>18
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\632115\source\repos\500083-2122-lab-i-sqz-xy\500083_ACW_Template\ACW_WordSearch\WordSearch.cpp
+<c>INTERNAL-METRICS-METHODS2
+<b>CLASS=WordSearch; SIGNATURE=WordSearch::readAdvancedPuzzle(); PARAMNO=0; DEF=true; DIT=false; START_LINE=191; END_LINE=217; TEMPLATE_CLASS=; TEMPLATE_FUNC=
+<l>191
+<k>18
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\632115\source\repos\500083-2122-lab-i-sqz-xy\500083_ACW_Template\ACW_WordSearch\WordSearch.cpp
+<c>INTERNAL-METRICS-NBD
+<b>FUNC=WordSearch::readAdvancedPuzzle(); NBD=1; TEMPLATE_FUNC=
+<l>191
+<k>18
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\632115\source\repos\500083-2122-lab-i-sqz-xy\500083_ACW_Template\ACW_WordSearch\WordSearch.cpp
+<c>INTERNAL-METRICS-CC
+<b>FUNC=WordSearch::constructLinkedGrid(LetterNode **); CC=6; SCC=9; MCC=6; TEMPLATE_FUNC=
+<l>223
+<k>18
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\632115\source\repos\500083-2122-lab-i-sqz-xy\500083_ACW_Template\ACW_WordSearch\WordSearch.cpp
+<c>INTERNAL-METRICS-METHODS2
+<b>CLASS=WordSearch; SIGNATURE=WordSearch::constructLinkedGrid(LetterNode **); PARAMNO=1; DEF=true; DIT=false; START_LINE=223; END_LINE=263; TEMPLATE_CLASS=; TEMPLATE_FUNC=
+<l>223
+<k>18
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\632115\source\repos\500083-2122-lab-i-sqz-xy\500083_ACW_Template\ACW_WordSearch\WordSearch.cpp
+<c>INTERNAL-METRICS-NBD
+<b>FUNC=WordSearch::constructLinkedGrid(LetterNode **); NBD=3; TEMPLATE_FUNC=
+<l>223
+<k>18
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\632115\source\repos\500083-2122-lab-i-sqz-xy\500083_ACW_Template\ACW_WordSearch\WordSearch.cpp
+<c>INTERNAL-METRICS-CC
+<b>FUNC=WordSearch::readAdvancedDictionary(); CC=1; SCC=1; MCC=1; TEMPLATE_FUNC=
+<l>265
+<k>18
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\632115\source\repos\500083-2122-lab-i-sqz-xy\500083_ACW_Template\ACW_WordSearch\WordSearch.cpp
+<c>INTERNAL-METRICS-METHODS2
+<b>CLASS=WordSearch; SIGNATURE=WordSearch::readAdvancedDictionary(); PARAMNO=0; DEF=true; DIT=false; START_LINE=265; END_LINE=270; TEMPLATE_CLASS=; TEMPLATE_FUNC=
+<l>265
+<k>18
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\632115\source\repos\500083-2122-lab-i-sqz-xy\500083_ACW_Template\ACW_WordSearch\WordSearch.cpp
+<c>INTERNAL-METRICS-NBD
+<b>FUNC=WordSearch::readAdvancedDictionary(); NBD=0; TEMPLATE_FUNC=
+<l>265
+<k>18
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\632115\source\repos\500083-2122-lab-i-sqz-xy\500083_ACW_Template\ACW_WordSearch\WordSearch.cpp
+<c>INTERNAL-METRICS-CC
+<b>FUNC=WordSearch::solvePuzzleSimple(); CC=8; SCC=8; MCC=8; TEMPLATE_FUNC=
+<l>272
+<k>18
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\632115\source\repos\500083-2122-lab-i-sqz-xy\500083_ACW_Template\ACW_WordSearch\WordSearch.cpp
+<c>INTERNAL-METRICS-METHODS2
+<b>CLASS=WordSearch; SIGNATURE=WordSearch::solvePuzzleSimple(); PARAMNO=0; DEF=true; DIT=false; START_LINE=272; END_LINE=307; TEMPLATE_CLASS=; TEMPLATE_FUNC=
+<l>272
+<k>18
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\632115\source\repos\500083-2122-lab-i-sqz-xy\500083_ACW_Template\ACW_WordSearch\WordSearch.cpp
+<c>INTERNAL-METRICS-NBD
+<b>FUNC=WordSearch::solvePuzzleSimple(); NBD=5; TEMPLATE_FUNC=
+<l>272
+<k>18
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\632115\source\repos\500083-2122-lab-i-sqz-xy\500083_ACW_Template\ACW_WordSearch\WordSearch.cpp
+<c>INTERNAL-METRICS-CC
+<b>FUNC=WordSearch::checkAdjacents(const std::string&, int, int); CC=6; SCC=9; MCC=6; TEMPLATE_FUNC=
+<l>309
+<k>18
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\632115\source\repos\500083-2122-lab-i-sqz-xy\500083_ACW_Template\ACW_WordSearch\WordSearch.cpp
+<c>INTERNAL-METRICS-METHODS2
+<b>CLASS=WordSearch; SIGNATURE=WordSearch::checkAdjacents(const std::string&, int, int); PARAMNO=3; DEF=true; DIT=false; START_LINE=309; END_LINE=367; TEMPLATE_CLASS=; TEMPLATE_FUNC=
+<l>309
+<k>18
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\632115\source\repos\500083-2122-lab-i-sqz-xy\500083_ACW_Template\ACW_WordSearch\WordSearch.cpp
+<c>INTERNAL-METRICS-NBD
+<b>FUNC=WordSearch::checkAdjacents(const std::string&, int, int); NBD=3; TEMPLATE_FUNC=
+<l>309
+<k>18
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\632115\source\repos\500083-2122-lab-i-sqz-xy\500083_ACW_Template\ACW_WordSearch\WordSearch.cpp
+<c>INTERNAL-METRICS-CC
+<b>FUNC=WordSearch::solvePuzzleAdvanced(); CC=9; SCC=9; MCC=9; TEMPLATE_FUNC=
+<l>372
+<k>18
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\632115\source\repos\500083-2122-lab-i-sqz-xy\500083_ACW_Template\ACW_WordSearch\WordSearch.cpp
+<c>INTERNAL-METRICS-METHODS2
+<b>CLASS=WordSearch; SIGNATURE=WordSearch::solvePuzzleAdvanced(); PARAMNO=0; DEF=true; DIT=false; START_LINE=372; END_LINE=418; TEMPLATE_CLASS=; TEMPLATE_FUNC=
+<l>372
+<k>18
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\632115\source\repos\500083-2122-lab-i-sqz-xy\500083_ACW_Template\ACW_WordSearch\WordSearch.cpp
+<c>INTERNAL-METRICS-NBD
+<b>FUNC=WordSearch::solvePuzzleAdvanced(); NBD=5; TEMPLATE_FUNC=
+<l>372
+<k>18
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\632115\source\repos\500083-2122-lab-i-sqz-xy\500083_ACW_Template\ACW_WordSearch\WordSearch.cpp
+<c>INTERNAL-METRICS-CC
+<b>FUNC=WordSearch::checkAdjacents(const std::string&, const LetterNode &); CC=6; SCC=6; MCC=6; TEMPLATE_FUNC=
+<l>420
+<k>18
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\632115\source\repos\500083-2122-lab-i-sqz-xy\500083_ACW_Template\ACW_WordSearch\WordSearch.cpp
+<c>INTERNAL-METRICS-METHODS2
+<b>CLASS=WordSearch; SIGNATURE=WordSearch::checkAdjacents(const std::string&, const LetterNode &); PARAMNO=2; DEF=true; DIT=false; START_LINE=420; END_LINE=456; TEMPLATE_CLASS=; TEMPLATE_FUNC=
+<l>420
+<k>18
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\632115\source\repos\500083-2122-lab-i-sqz-xy\500083_ACW_Template\ACW_WordSearch\WordSearch.cpp
+<c>INTERNAL-METRICS-NBD
+<b>FUNC=WordSearch::checkAdjacents(const std::string&, const LetterNode &); NBD=3; TEMPLATE_FUNC=
+<l>420
+<k>18
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\632115\source\repos\500083-2122-lab-i-sqz-xy\500083_ACW_Template\ACW_WordSearch\WordSearch.cpp
+<c>INTERNAL-METRICS-CC
+<b>FUNC=WordSearch::writeResults(double, double) const; CC=5; SCC=5; MCC=5; TEMPLATE_FUNC=
+<l>458
+<k>18
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\632115\source\repos\500083-2122-lab-i-sqz-xy\500083_ACW_Template\ACW_WordSearch\WordSearch.cpp
+<c>INTERNAL-METRICS-METHODS2
+<b>CLASS=WordSearch; SIGNATURE=WordSearch::writeResults(double, double) const; PARAMNO=2; DEF=true; DIT=false; START_LINE=458; END_LINE=489; TEMPLATE_CLASS=; TEMPLATE_FUNC=
+<l>458
+<k>18
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\632115\source\repos\500083-2122-lab-i-sqz-xy\500083_ACW_Template\ACW_WordSearch\WordSearch.cpp
+<c>INTERNAL-METRICS-NBD
+<b>FUNC=WordSearch::writeResults(double, double) const; NBD=0; TEMPLATE_FUNC=
+<l>458
+<k>18
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\632115\source\repos\500083-2122-lab-i-sqz-xy\500083_ACW_Template\ACW_WordSearch\WordSearch.h
+<c>INTERNAL-METRICS-TYPES
+<b>CLASS=WordSearch; NAMESPACE=; TEMPLATE_TYPE=; TAG=class
+<l>8
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\632115\source\repos\500083-2122-lab-i-sqz-xy\500083_ACW_Template\ACW_WordSearch\WordSearch.h
+<c>INTERNAL-METRICS-METHODS2
+<b>CLASS=WordSearch; SIGNATURE=WordSearch::WordSearch(const char *); PARAMNO=1; DEF=false; DIT=true; START_LINE=15; END_LINE=15; TEMPLATE_CLASS=; TEMPLATE_FUNC=
+<l>15
+<k>11
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\632115\source\repos\500083-2122-lab-i-sqz-xy\500083_ACW_Template\ACW_WordSearch\WordSearch.cpp
+<c>INTERNAL-METRICS-NBD
+<b>FUNC=WordSearch::WordSearch(const char *); NBD=0; TEMPLATE_FUNC=
+<l>19
+<k>13
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\632115\source\repos\500083-2122-lab-i-sqz-xy\500083_ACW_Template\ACW_WordSearch\WordSearch.h
+<c>INTERNAL-METRICS-METHODS2
+<b>CLASS=WordSearch; SIGNATURE=WordSearch::WordSearch(const WordSearch&); PARAMNO=1; DEF=false; DIT=true; START_LINE=21; END_LINE=21; TEMPLATE_CLASS=; TEMPLATE_FUNC=
+<l>21
+<k>11
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\632115\source\repos\500083-2122-lab-i-sqz-xy\500083_ACW_Template\ACW_WordSearch\WordSearch.cpp
+<c>INTERNAL-METRICS-NBD
+<b>FUNC=WordSearch::WordSearch(const WordSearch&); NBD=0; TEMPLATE_FUNC=
+<l>32
+<k>13
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\632115\source\repos\500083-2122-lab-i-sqz-xy\500083_ACW_Template\ACW_WordSearch\WordSearch.h
+<c>INTERNAL-METRICS-METHODS2
+<b>CLASS=WordSearch; SIGNATURE=WordSearch::~WordSearch(); PARAMNO=0; DEF=false; DIT=true; START_LINE=26; END_LINE=26; TEMPLATE_CLASS=; TEMPLATE_FUNC=
+<l>26
+<k>2
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\632115\source\repos\500083-2122-lab-i-sqz-xy\500083_ACW_Template\ACW_WordSearch\WordSearch.cpp
+<c>INTERNAL-METRICS-NBD
+<b>FUNC=WordSearch::~WordSearch(); NBD=1; TEMPLATE_FUNC=
+<l>50
+<k>13
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\632115\source\repos\500083-2122-lab-i-sqz-xy\500083_ACW_Template\ACW_WordSearch\WordSearch.h
+<c>INTERNAL-METRICS-METHODS2
+<b>CLASS=WordSearch; SIGNATURE=WordSearch::readSimplePuzzle(); PARAMNO=0; DEF=false; DIT=true; START_LINE=33; END_LINE=33; TEMPLATE_CLASS=; TEMPLATE_FUNC=
+<l>33
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\632115\source\repos\500083-2122-lab-i-sqz-xy\500083_ACW_Template\ACW_WordSearch\WordSearch.cpp
+<c>INTERNAL-METRICS-NBD
+<b>FUNC=WordSearch::readSimplePuzzle(); NBD=0; TEMPLATE_FUNC=
+<l>66
+<k>18
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\632115\source\repos\500083-2122-lab-i-sqz-xy\500083_ACW_Template\ACW_WordSearch\WordSearch.h
+<c>INTERNAL-METRICS-METHODS2
+<b>CLASS=WordSearch; SIGNATURE=WordSearch::readSimpleDictionary(); PARAMNO=0; DEF=false; DIT=true; START_LINE=38; END_LINE=38; TEMPLATE_CLASS=; TEMPLATE_FUNC=
+<l>38
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\632115\source\repos\500083-2122-lab-i-sqz-xy\500083_ACW_Template\ACW_WordSearch\WordSearch.cpp
+<c>INTERNAL-METRICS-NBD
+<b>FUNC=WordSearch::readSimpleDictionary(); NBD=1; TEMPLATE_FUNC=
+<l>106
+<k>18
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\632115\source\repos\500083-2122-lab-i-sqz-xy\500083_ACW_Template\ACW_WordSearch\WordSearch.h
+<c>INTERNAL-METRICS-METHODS2
+<b>CLASS=WordSearch; SIGNATURE=WordSearch::readAdvancedPuzzle(); PARAMNO=0; DEF=false; DIT=true; START_LINE=40; END_LINE=40; TEMPLATE_CLASS=; TEMPLATE_FUNC=
+<l>40
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\632115\source\repos\500083-2122-lab-i-sqz-xy\500083_ACW_Template\ACW_WordSearch\WordSearch.cpp
+<c>INTERNAL-METRICS-NBD
+<b>FUNC=WordSearch::readAdvancedPuzzle(); NBD=1; TEMPLATE_FUNC=
+<l>191
+<k>18
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\632115\source\repos\500083-2122-lab-i-sqz-xy\500083_ACW_Template\ACW_WordSearch\WordSearch.h
+<c>INTERNAL-METRICS-METHODS2
+<b>CLASS=WordSearch; SIGNATURE=WordSearch::readAdvancedDictionary(); PARAMNO=0; DEF=false; DIT=true; START_LINE=41; END_LINE=41; TEMPLATE_CLASS=; TEMPLATE_FUNC=
+<l>41
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\632115\source\repos\500083-2122-lab-i-sqz-xy\500083_ACW_Template\ACW_WordSearch\WordSearch.cpp
+<c>INTERNAL-METRICS-NBD
+<b>FUNC=WordSearch::readAdvancedDictionary(); NBD=0; TEMPLATE_FUNC=
+<l>265
+<k>18
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\632115\source\repos\500083-2122-lab-i-sqz-xy\500083_ACW_Template\ACW_WordSearch\WordSearch.h
+<c>INTERNAL-METRICS-METHODS2
+<b>CLASS=WordSearch; SIGNATURE=WordSearch::solvePuzzleSimple(); PARAMNO=0; DEF=false; DIT=true; START_LINE=43; END_LINE=43; TEMPLATE_CLASS=; TEMPLATE_FUNC=
+<l>43
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\632115\source\repos\500083-2122-lab-i-sqz-xy\500083_ACW_Template\ACW_WordSearch\WordSearch.cpp
+<c>INTERNAL-METRICS-NBD
+<b>FUNC=WordSearch::solvePuzzleSimple(); NBD=5; TEMPLATE_FUNC=
+<l>272
+<k>18
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\632115\source\repos\500083-2122-lab-i-sqz-xy\500083_ACW_Template\ACW_WordSearch\WordSearch.h
+<c>INTERNAL-METRICS-METHODS2
+<b>CLASS=WordSearch; SIGNATURE=WordSearch::solvePuzzleAdvanced(); PARAMNO=0; DEF=false; DIT=true; START_LINE=44; END_LINE=44; TEMPLATE_CLASS=; TEMPLATE_FUNC=
+<l>44
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\632115\source\repos\500083-2122-lab-i-sqz-xy\500083_ACW_Template\ACW_WordSearch\WordSearch.cpp
+<c>INTERNAL-METRICS-NBD
+<b>FUNC=WordSearch::solvePuzzleAdvanced(); NBD=5; TEMPLATE_FUNC=
+<l>372
+<k>18
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\632115\source\repos\500083-2122-lab-i-sqz-xy\500083_ACW_Template\ACW_WordSearch\WordSearch.h
+<c>INTERNAL-METRICS-METHODS2
+<b>CLASS=WordSearch; SIGNATURE=WordSearch::writeResults(double, double) const; PARAMNO=2; DEF=false; DIT=true; START_LINE=46; END_LINE=46; TEMPLATE_CLASS=; TEMPLATE_FUNC=
+<l>46
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\632115\source\repos\500083-2122-lab-i-sqz-xy\500083_ACW_Template\ACW_WordSearch\WordSearch.cpp
+<c>INTERNAL-METRICS-NBD
+<b>FUNC=WordSearch::writeResults(double, double) const; NBD=0; TEMPLATE_FUNC=
+<l>458
+<k>18
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\632115\source\repos\500083-2122-lab-i-sqz-xy\500083_ACW_Template\ACW_WordSearch\WordSearch.h
+<c>INTERNAL-METRICS-METHODS2
+<b>CLASS=WordSearch; SIGNATURE=WordSearch::writeSimplePuzzle() const; PARAMNO=0; DEF=false; DIT=true; START_LINE=53; END_LINE=53; TEMPLATE_CLASS=; TEMPLATE_FUNC=
+<l>53
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\632115\source\repos\500083-2122-lab-i-sqz-xy\500083_ACW_Template\ACW_WordSearch\WordSearch.cpp
+<c>INTERNAL-METRICS-NBD
+<b>FUNC=WordSearch::writeSimplePuzzle() const; NBD=1; TEMPLATE_FUNC=
+<l>92
+<k>18
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\632115\source\repos\500083-2122-lab-i-sqz-xy\500083_ACW_Template\ACW_WordSearch\WordSearch.h
+<c>INTERNAL-METRICS-METHODS2
+<b>CLASS=WordSearch; SIGNATURE=WordSearch::writeSimpleDic() const; PARAMNO=0; DEF=false; DIT=true; START_LINE=58; END_LINE=58; TEMPLATE_CLASS=; TEMPLATE_FUNC=
+<l>58
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\632115\source\repos\500083-2122-lab-i-sqz-xy\500083_ACW_Template\ACW_WordSearch\WordSearch.cpp
+<c>INTERNAL-METRICS-NBD
+<b>FUNC=WordSearch::writeSimpleDic() const; NBD=0; TEMPLATE_FUNC=
+<l>125
+<k>18
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\632115\source\repos\500083-2122-lab-i-sqz-xy\500083_ACW_Template\ACW_WordSearch\WordSearch.h
+<c>INTERNAL-METRICS-METHODS2
+<b>CLASS=WordSearch; SIGNATURE=WordSearch::writeAdvancedPuzzle() const; PARAMNO=0; DEF=false; DIT=true; START_LINE=63; END_LINE=63; TEMPLATE_CLASS=; TEMPLATE_FUNC=
+<l>63
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\632115\source\repos\500083-2122-lab-i-sqz-xy\500083_ACW_Template\ACW_WordSearch\WordSearch.cpp
+<c>INTERNAL-METRICS-NBD
+<b>FUNC=WordSearch::writeAdvancedPuzzle() const; NBD=2; TEMPLATE_FUNC=
+<l>135
+<k>18
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\632115\source\repos\500083-2122-lab-i-sqz-xy\500083_ACW_Template\ACW_WordSearch\WordSearch.h
+<c>INTERNAL-METRICS-METHODS2
+<b>CLASS=WordSearch; SIGNATURE=WordSearch::checkAdjacents(const std::string&, int, int); PARAMNO=3; DEF=false; DIT=true; START_LINE=68; END_LINE=68; TEMPLATE_CLASS=; TEMPLATE_FUNC=
+<l>68
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\632115\source\repos\500083-2122-lab-i-sqz-xy\500083_ACW_Template\ACW_WordSearch\WordSearch.cpp
+<c>INTERNAL-METRICS-NBD
+<b>FUNC=WordSearch::checkAdjacents(const std::string&, int, int); NBD=3; TEMPLATE_FUNC=
+<l>309
+<k>18
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\632115\source\repos\500083-2122-lab-i-sqz-xy\500083_ACW_Template\ACW_WordSearch\WordSearch.h
+<c>INTERNAL-METRICS-METHODS2
+<b>CLASS=WordSearch; SIGNATURE=WordSearch::checkAdjacents(const std::string&, const LetterNode &); PARAMNO=2; DEF=false; DIT=true; START_LINE=73; END_LINE=73; TEMPLATE_CLASS=; TEMPLATE_FUNC=
+<l>73
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\632115\source\repos\500083-2122-lab-i-sqz-xy\500083_ACW_Template\ACW_WordSearch\WordSearch.cpp
+<c>INTERNAL-METRICS-NBD
+<b>FUNC=WordSearch::checkAdjacents(const std::string&, const LetterNode &); NBD=3; TEMPLATE_FUNC=
+<l>420
+<k>18
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\632115\source\repos\500083-2122-lab-i-sqz-xy\500083_ACW_Template\ACW_WordSearch\WordSearch.h
+<c>INTERNAL-METRICS-METHODS2
+<b>CLASS=WordSearch; SIGNATURE=WordSearch::constructLinkedGrid(LetterNode **); PARAMNO=1; DEF=false; DIT=true; START_LINE=78; END_LINE=78; TEMPLATE_CLASS=; TEMPLATE_FUNC=
+<l>78
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\632115\source\repos\500083-2122-lab-i-sqz-xy\500083_ACW_Template\ACW_WordSearch\WordSearch.cpp
+<c>INTERNAL-METRICS-NBD
+<b>FUNC=WordSearch::constructLinkedGrid(LetterNode **); NBD=3; TEMPLATE_FUNC=
+<l>223
+<k>18
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\632115\source\repos\500083-2122-lab-i-sqz-xy\500083_ACW_Template\ACW_WordSearch\WordSearch.h
+<c>INTERNAL-METRICS-METHODS2
+<b>CLASS=WordSearch; SIGNATURE=WordSearch::operator =(const WordSearch&); PARAMNO=1; DEF=false; DIT=true; START_LINE=81; END_LINE=81; TEMPLATE_CLASS=; TEMPLATE_FUNC=
+<l>81
+<k>22
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\632115\source\repos\500083-2122-lab-i-sqz-xy\500083_ACW_Template\ACW_WordSearch\WordSearch.cpp
+<c>INTERNAL-METRICS-NBD
+<b>FUNC=WordSearch::operator =(const WordSearch&); NBD=1; TEMPLATE_FUNC=
+<l>166
+<k>33
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\632115\source\repos\500083-2122-lab-i-sqz-xy\500083_ACW_Template\ACW_WordSearch\LetterNode.h
+<c>INTERNAL-METRICS-TYPES
+<b>CLASS=LetterNode; NAMESPACE=; TEMPLATE_TYPE=; TAG=class
+<l>7
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\632115\source\repos\500083-2122-lab-i-sqz-xy\500083_ACW_Template\ACW_WordSearch\LetterNode.h
+<c>INTERNAL-METRICS-METHODS2
+<b>CLASS=LetterNode; SIGNATURE=LetterNode::LetterNode(); PARAMNO=0; DEF=false; DIT=true; START_LINE=15; END_LINE=15; TEMPLATE_CLASS=; TEMPLATE_FUNC=
+<l>15
+<k>2
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\632115\source\repos\500083-2122-lab-i-sqz-xy\500083_ACW_Template\ACW_WordSearch\LetterNode.h
+<c>INTERNAL-METRICS-METHODS2
+<b>CLASS=LetterNode; SIGNATURE=LetterNode::LetterNode(char, int, int); PARAMNO=3; DEF=false; DIT=true; START_LINE=23; END_LINE=23; TEMPLATE_CLASS=; TEMPLATE_FUNC=
+<l>23
+<k>11
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\632115\source\repos\500083-2122-lab-i-sqz-xy\500083_ACW_Template\ACW_WordSearch\LetterNode.h
+<c>INTERNAL-METRICS-METHODS2
+<b>CLASS=LetterNode; SIGNATURE=LetterNode::LetterNode(const LetterNode&); PARAMNO=1; DEF=false; DIT=true; START_LINE=29; END_LINE=29; TEMPLATE_CLASS=; TEMPLATE_FUNC=
+<l>29
+<k>11
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\632115\source\repos\500083-2122-lab-i-sqz-xy\500083_ACW_Template\ACW_WordSearch\LetterNode.h
+<c>INTERNAL-METRICS-METHODS2
+<b>CLASS=LetterNode; SIGNATURE=LetterNode::~LetterNode(); PARAMNO=0; DEF=false; DIT=true; START_LINE=34; END_LINE=34; TEMPLATE_CLASS=; TEMPLATE_FUNC=
+<l>34
+<k>2
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\632115\source\repos\500083-2122-lab-i-sqz-xy\500083_ACW_Template\ACW_WordSearch\LetterNode.h
+<c>INTERNAL-METRICS-METHODS2
+<b>CLASS=LetterNode; SIGNATURE=LetterNode::GetLetter() const; PARAMNO=0; DEF=false; DIT=true; START_LINE=40; END_LINE=40; TEMPLATE_CLASS=; TEMPLATE_FUNC=
+<l>40
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\632115\source\repos\500083-2122-lab-i-sqz-xy\500083_ACW_Template\ACW_WordSearch\LetterNode.h
+<c>INTERNAL-METRICS-METHODS2
+<b>CLASS=LetterNode; SIGNATURE=LetterNode::SetLetter(char); PARAMNO=1; DEF=false; DIT=true; START_LINE=46; END_LINE=46; TEMPLATE_CLASS=; TEMPLATE_FUNC=
+<l>46
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\632115\source\repos\500083-2122-lab-i-sqz-xy\500083_ACW_Template\ACW_WordSearch\LetterNode.h
+<c>INTERNAL-METRICS-METHODS2
+<b>CLASS=LetterNode; SIGNATURE=LetterNode::operator =(const LetterNode&); PARAMNO=1; DEF=false; DIT=true; START_LINE=53; END_LINE=53; TEMPLATE_CLASS=; TEMPLATE_FUNC=
+<l>53
+<k>22
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\632115\source\repos\500083-2122-lab-i-sqz-xy\500083_ACW_Template\ACW_WordSearch\LetterNode.h
+<c>INTERNAL-METRICS-FUNCTIONS2
+<b>FUNC=<<; SIGNATURE=operator <<(std::ostream&, const LetterNode &); NAMESPACE=; PARAMNO=2; DEF=false; START_LINE=94; END_LINE=94; TEMPLATE_FUNC=
+<l>94
+<k>18
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\632115\source\repos\500083-2122-lab-i-sqz-xy\500083_ACW_Template\ACW_WordSearch\WordSearch.cpp
+<c>INTERNAL-METRICS-LINES_TYPES
+<b>DATA=SSBSSSSSSBSBCBCCCCSSSSSSSSBCCCCSSSSSSSSSSSSBCCCCCSCSSSSSSBSSBCCCCSSSBSSBCSSBCSSBCSSSBSSBCCCSSSSSSSSSSBCCCSSSBSBCSSCSCSSSBCCCSSSSSSBCCCSSSSSSSBSBSSSBCSSSMSSCMSSBCCCCCSSSSSSSSSSSSSSSSSBSSBCCCCSSSBSSBCSSBCSSBCSSSSSSSSSSSBCCCCSSCSCSSSSSSSSBSBSSSSSBSSBSSSSBCSSSSSBSSSSBSBCCSSBSSSSSSSSSCSBCSSBMSCSSBCSSSCSSBSSSBSSBSSSSBCSCMMMMMMMMSBCSSCSBCSBCSSCSSBCSBCSSBCSSBCSSBCSSSSSSSSSBCCCSSSSSSBCSSSSSBSSCSSBSCSSCSSBSBCSSCSSSSSSMSCMSSSBSSSBCSSSBSSBSBSSSSBSBCSSSSSBCSSBSSSSSBSSBCSSSBCSSBCSBSSSBSBSSSBSBSSSSS
+<l>1
+<k>-1
+<s>false
+<N>
+<f>
+<L>0

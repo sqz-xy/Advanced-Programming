@@ -1,0 +1,11 @@
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary=kGC6uokglBZiPDw7eJk0zC2OQ8cM0y5WDg
+StorageVersion: v1
+
+--kGC6uokglBZiPDw7eJk0zC2OQ8cM0y5WDg
+
+<?xml version='1.0' encoding='UTF-8'?><ResultsList path="ACW_WordSearch/ACW_WordSearch/Source Files/LetterNode.cpp"><VersionInfos><StorageInfo ownerId="com.parasoft.xtest.checkers.api.execution" resultId="IExecutionViolation" ver="2"/><StorageInfo ownerId="com.parasoft.xtest.checkers.api.execution" resultId="InsureViolation" ver="3"/><StorageInfo ownerId="com.parasoft.xtest.checkers.api.scope" resultId="IScopeProjectInfo" ver="3"/><StorageInfo ownerId="com.parasoft.xtest.checkers.api.standards" resultId="IMetricsViolation" ver="2"/><StorageInfo ownerId="com.parasoft.xtest.checkers.api.standards" resultId="IDupCodeViolation" ver="2"/><StorageInfo ownerId="com.parasoft.xtest.checkers.api.standards" resultId="IMetricEstimationInfo" ver="2"/><StorageInfo ownerId="com.parasoft.xtest.checkers.api.standards" resultId="IFlowAnalysisViolation" ver="2"/><StorageInfo ownerId="com.parasoft.xtest.checkers.api.standards" resultId="ICodingStandardsViolation" ver="2"/><StorageInfo ownerId="com.parasoft.xtest.checkers.api.generation" resultId="IGenerationInfo" ver="2"/><StorageInfo ownerId="com.parasoft.xtest.checkers.api.generation" resultId="IGenerationProjectInfo" ver="2"/></VersionInfos></ResultsList>
+--kGC6uokglBZiPDw7eJk0zC2OQ8cM0y5WDg
+
+<?xml version='1.0' encoding='UTF-8'?><ResultInfo resultId="ICodingStandardsViolation" ownerId="com.parasoft.xtest.checkers.api.standards" violKeys="null"><StdViol msg="Getter/setter method 'GetLetter' is not inlined" ln="32" sev="4" auth="proto" rule="OPT-23" tool="c++test" cat="OPT" lang="cpp" locType="sr" config="1" hash="364094254" locStartln="32" locStartPos="17" locEndLn="32" locEndPos="18" locFile="ACW_WordSearch/ACW_WordSearch/Source Files/LetterNode.cpp"/></ResultInfo>
+--kGC6uokglBZiPDw7eJk0zC2OQ8cM0y5WDg--

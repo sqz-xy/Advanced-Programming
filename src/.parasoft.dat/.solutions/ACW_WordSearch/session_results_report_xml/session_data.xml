@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><ResultsSession>
+   <SessionData configName="500083 rule set" enabledAnalysis="Static" enabledHandlers="com.parasoft.xtest.checkers.api.metrics.factory;com.parasoft.xtest.checkers.api.scope.factory;com.parasoft.xtest.checkers.api.standards.factory" hasViols="true" header="??:ACW_WordSearch:?? ??true??false??" runId="" startTime="1651707737083" tool="c++test">
+      <Authors>
+         <Author id="dev1" name="proto"/>
+      </Authors>
+      <Selection>
+         <Res id="ACW_WordSearch/ACW_WordSearch"/>
+      </Selection>
+      <XmlDataFiles file0="C:\Users\proto\Source\Repos\500083-2122-lab-i-sqz-xy\500083_ACW_Template\.parasoft.dat\.solutions\ACW_WordSearch\session_results_report_xml\cs_violations.xml"/>
+   </SessionData>
+   <Locations>
+      <Loc fsPath="C:\Users\proto\source\repos\500083-2122-lab-i-sqz-xy\500083_ACW_Template\ACW_WordSearch\WordSearch.cpp" loc="ACW_WordSearch/ACW_WordSearch/Source Files/WordSearch.cpp" projPath="ACW_WordSearch/ACW_WordSearch" project="ACW_WordSearch"/>
+      <Loc fsPath="C:\Users\proto\source\repos\500083-2122-lab-i-sqz-xy\500083_ACW_Template\ACW_WordSearch\LetterNode.h" loc="ACW_WordSearch/ACW_WordSearch/Header Files/LetterNode.h" projPath="ACW_WordSearch/ACW_WordSearch" project="ACW_WordSearch"/>
+      <Loc fsPath="C:\Users\proto\source\repos\500083-2122-lab-i-sqz-xy\500083_ACW_Template\ACW_WordSearch\LetterNode.cpp" loc="ACW_WordSearch/ACW_WordSearch/Source Files/LetterNode.cpp" projPath="ACW_WordSearch/ACW_WordSearch" project="ACW_WordSearch"/>
+   </Locations>
+   <CodingStandards>
+      <HistoryData authTsks="6" authors="proto" cvdLn="918" startTime="1651707737083" totLn="918" totTsks="6"/>
+      <TestedFilesDetails>
+         <Total name="Suppressed / Total" supp="0" total="6">
+            <Project name="ACW_WordSearch" supp="0" total="6">
+               <Res name="Header Files" supp="0" total="3">
+                  <Res loc="ACW_WordSearch/ACW_WordSearch/Header Files/LetterNode.h" locType="sr" name="LetterNode.h" supp="0" total="3"/>
+                  <Res name="WordSearch.h" supp="0" total="0"/>
+               </Res>
+               <Res name="Source Files" supp="0" total="3">
+                  <Res loc="ACW_WordSearch/ACW_WordSearch/Source Files/WordSearch.cpp" locType="sr" name="WordSearch.cpp" supp="0" total="2"/>
+                  <Res loc="ACW_WordSearch/ACW_WordSearch/Source Files/LetterNode.cpp" locType="sr" name="LetterNode.cpp" supp="0" total="1"/>
+                  <Res name="Main.cpp" supp="0" total="0"/>
+               </Res>
+            </Project>
+         </Total>
+      </TestedFilesDetails>
+   </CodingStandards>
+   <MetricsNormal/>
+   <MetricsDetailed/>
+</ResultsSession>

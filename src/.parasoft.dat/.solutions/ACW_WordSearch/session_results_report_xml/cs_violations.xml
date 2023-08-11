@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mergePnt id="csViolations">
+  <StdViols>
+    <StdViol msg="LetterNode: the percentage of getters and setters (100.00) is equal or higher than the threshold (100.00)" ln="7" sev="4" auth="proto" rule="CODSTA-CPP-81" tool="c++test" cat="CODSTA-CPP" lang="cpp" locType="sr" urgent="true" config="1" hash="-592476239" locStartln="7" locStartPos="6" locEndLn="7" locEndPos="7" locFile="ACW_WordSearch/ACW_WordSearch/Header Files/LetterNode.h"/>
+    <StdViol msg="Members 'm_adjacentCount, m_x, m_y' of class 'LetterNode' are declared in suboptimal order for memory layout" ln="7" sev="5" auth="proto" rule="OPT-13-DOWNGRADED" tool="c++test" cat="OPT-13" lang="cpp" locType="sr" urgent="true" config="1" hash="-592476239" locStartln="7" locStartPos="6" locEndLn="7" locEndPos="7" locFile="ACW_WordSearch/ACW_WordSearch/Header Files/LetterNode.h"/>
+    <StdViol msg="Friend mechanism used for 'WordSearch'" ln="10" sev="3" auth="proto" rule="OOP-11" tool="c++test" cat="OOP" lang="cpp" locType="sr" urgent="true" config="1" hash="-592476239" locStartln="10" locStartPos="14" locEndLn="10" locEndPos="15" locFile="ACW_WordSearch/ACW_WordSearch/Header Files/LetterNode.h"/>
+    <StdViol msg="Getter/setter method 'GetLetter' is not inlined" ln="32" sev="4" auth="proto" rule="OPT-23" tool="c++test" cat="OPT" lang="cpp" locType="sr" urgent="true" config="1" hash="364094254" locStartln="32" locStartPos="17" locEndLn="32" locEndPos="18" locFile="ACW_WordSearch/ACW_WordSearch/Source Files/LetterNode.cpp"/>
+    <StdViol msg="Declare local variable 'currentNode' as const" ln="191" sev="3" auth="proto" rule="CODSTA-CPP-53" tool="c++test" cat="CODSTA-CPP" lang="cpp" locType="sr" urgent="true" config="1" hash="270983309" locStartln="191" locStartPos="15" locEndLn="191" locEndPos="16" locFile="ACW_WordSearch/ACW_WordSearch/Source Files/WordSearch.cpp"/>
+    <StdViol msg="Function 'readAdvancedDictionary' is not inlined" ln="247" sev="4" auth="proto" rule="OPT-24" tool="c++test" cat="OPT" lang="cpp" locType="sr" urgent="true" config="1" hash="270983309" locStartln="247" locStartPos="17" locEndLn="247" locEndPos="18" locFile="ACW_WordSearch/ACW_WordSearch/Source Files/WordSearch.cpp"/>
+  </StdViols>
+</mergePnt>

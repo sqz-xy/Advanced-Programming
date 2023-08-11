@@ -1,0 +1,50 @@
+<->
+<F>C:\Users\proto\source\repos\500083-2122-lab-i-sqz-xy\500083_ACW_Template\ACW_WordSearch\LetterNode.cpp
+<c>OPT-23
+<b>Getter/setter method 'GetLetter' is not inlined
+<l>32
+<k>18
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\proto\source\repos\500083-2122-lab-i-sqz-xy\500083_ACW_Template\ACW_WordSearch\LetterNode.h
+<c>OOP-11
+<b>Friend mechanism used for 'WordSearch'
+<l>10
+<k>15
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\proto\source\repos\500083-2122-lab-i-sqz-xy\500083_ACW_Template\ACW_WordSearch\LetterNode.h
+<c>CODSTA-CPP-81
+<b>LetterNode: the percentage of getters and setters (100.00) is equal or higher than the threshold (100.00)
+<l>7
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\proto\source\repos\500083-2122-lab-i-sqz-xy\500083_ACW_Template\ACW_WordSearch\LetterNode.h
+<c>OPT-13
+<b>Members 'm_adjacentCount, m_x, m_y' of class 'LetterNode' are declared in suboptimal order for memory layout
+<l>7
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\proto\source\repos\500083-2122-lab-i-sqz-xy\500083_ACW_Template\ACW_WordSearch\LetterNode.cpp
+<c>OPT-23
+<b>Getter/setter method 'GetLetter' is not inlined
+<l>32
+<k>18
+<s>false
+<N>
+<f>
+<L>0

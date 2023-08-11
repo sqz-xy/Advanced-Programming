@@ -1,0 +1,90 @@
+<->
+<F>C:\Users\proto\source\repos\500083-2122-lab-i-sqz-xy\500083_ACW_Template\ACW_WordSearch\WordSearch.cpp
+<c>OPT-03
+<b>Parameter 'p_loadTime' is not used
+<l>186
+<k>44
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\proto\source\repos\500083-2122-lab-i-sqz-xy\500083_ACW_Template\ACW_WordSearch\WordSearch.cpp
+<c>OPT-03
+<b>Parameter 'p_solveTime' is not used
+<l>186
+<k>69
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\proto\source\repos\500083-2122-lab-i-sqz-xy\500083_ACW_Template\ACW_WordSearch\WordSearch.cpp
+<c>OPT-02
+<b>Local variable 'directions' declared but not used
+<l>156
+<k>20
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\proto\source\repos\500083-2122-lab-i-sqz-xy\500083_ACW_Template\ACW_WordSearch\WordSearch.cpp
+<c>CODSTA-CPP-54
+<b>Member function 'readAdvancedPuzzle' should be declared as const
+<l>142
+<k>18
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\proto\source\repos\500083-2122-lab-i-sqz-xy\500083_ACW_Template\ACW_WordSearch\WordSearch.cpp
+<c>CODSTA-CPP-54
+<b>Member function 'readAdvancedDictionary' should be declared as const
+<l>148
+<k>18
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\proto\source\repos\500083-2122-lab-i-sqz-xy\500083_ACW_Template\ACW_WordSearch\WordSearch.cpp
+<c>CODSTA-CPP-54
+<b>Member function 'solvePuzzleSimple' should be declared as const
+<l>153
+<k>18
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\proto\source\repos\500083-2122-lab-i-sqz-xy\500083_ACW_Template\ACW_WordSearch\WordSearch.cpp
+<c>CODSTA-CPP-54
+<b>Member function 'solvePuzzleAdvanced' should be declared as const
+<l>181
+<k>18
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\proto\source\repos\500083-2122-lab-i-sqz-xy\500083_ACW_Template\ACW_WordSearch\WordSearch.cpp
+<c>OPT-02
+<b>Local variable 'directions' declared but not used
+<l>156
+<k>20
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Users\proto\source\repos\500083-2122-lab-i-sqz-xy\500083_ACW_Template\ACW_WordSearch\LetterNode.h
+<c>OOP-11
+<b>Friend mechanism used for 'WordSearch'
+<l>4
+<k>15
+<s>false
+<N>
+<f>
+<L>0
